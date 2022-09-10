@@ -4,7 +4,6 @@ import { Pair as PairTemplate } from "../generated/templates";
 import { PairCreated } from "../generated/Factory/Factory";
 import {
   ZERO_BD,
-  ZERO_BI,
   fetchTokenSymbol,
   fetchTokenName,
   fetchTokenDecimals,

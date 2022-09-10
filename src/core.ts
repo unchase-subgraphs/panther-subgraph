@@ -4,7 +4,7 @@ import {
   Pair,
   Token
 } from '../generated/schema'
-import { Pair as PairContract, Burn, Swap, Sync } from '../generated/templates/Pair/Pair'
+import { Pair as PairContract, Sync } from '../generated/templates/Pair/Pair'
 import {
   convertTokenToDecimal,
   ZERO_BD,
