@@ -6,7 +6,7 @@ import { ERC20SymbolBytes } from "../../generated/Factory/ERC20SymbolBytes";
 import { Factory as FactoryContract } from "../../generated/templates/Pair/Factory";
 
 export let ADDRESS_ZERO = "0x0000000000000000000000000000000000000000";
-export let FACTORY_ADDRESS = "0xca143ce32fe78f1f7019d7d551a6402fc5350c73";
+export let FACTORY_ADDRESS = "0x670f55c6284c629c23baE99F585e3f17E8b9FC31";
 
 export let ZERO_BI = BigInt.fromI32(0);
 export let ONE_BI = BigInt.fromI32(1);

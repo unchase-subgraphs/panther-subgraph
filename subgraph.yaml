@@ -1,5 +1,6 @@
 specVersion: 0.0.4
 description: PantherSwap is a decentralized protocol for automated token exchange on Binance Smart Chain.
+repository: https://github.com/unchase-subgraphs/panther-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
